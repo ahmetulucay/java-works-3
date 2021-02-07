@@ -15,3 +15,9 @@ Part 5 (1-17)
 Part 6 (1-13)
 
 Part 7 (1-8)
+
+#
+
+Feel free for any suggestions, recommendations or improvements.
+
+THANKS
