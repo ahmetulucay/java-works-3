@@ -1,2 +1,3 @@
-# JAVA-WORKS-3-mooc-programming-i-
+# JAVA-WORKS-3
+
 Helsinki University (mooc-java-programming-i)
