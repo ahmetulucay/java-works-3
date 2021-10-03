@@ -11,7 +11,6 @@ public class SandboxTest {
 
     @Test
     public void freePoints() {
-        System.out.writeln("test");
     }
 
 }
